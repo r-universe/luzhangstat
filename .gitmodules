@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "phase1PRMD"]
+	path = phase1PRMD
+	url = https://github.com/luzhangstat/phase1prmd
+	shallow = true
+	registered = true
